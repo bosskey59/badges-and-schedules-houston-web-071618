@@ -24,5 +24,5 @@ def printer(speakers)
     puts x
   end
   
-  puts assign_rooms(speakers)
+  # puts assign_rooms(speakers)
 end
