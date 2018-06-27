@@ -13,6 +13,6 @@ end
 
 def assign_rooms(speakers)
   range =(1..7)
-  
+  speakers.each_with_index do |speaker, index|
   
 end
