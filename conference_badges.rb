@@ -18,3 +18,9 @@ def assign_rooms(speakers)
   end
   return array_of_rooms
 end
+
+def printer(speakers)
+  puts batch_badge_creator(speakers)
+  puts assign_rooms(speakers)
+  
+end
